@@ -1,6 +1,6 @@
 # Voice Finance Tracker Bot
 
-[![CI](https://github.com/OWNER/finance-tracker-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/finance-tracker-bot/actions/workflows/ci.yml)
+[![CI](https://github.com/uckix/Vocash/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/finance-tracker-bot/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
@@ -10,8 +10,6 @@ it (Moonshine), categorizes it (a local Ollama model), and logs it to
 SQLite. No OpenAI API, no cloud database, no 24/7 server — it only needs to
 be running while your machine is on, and picks up exactly where it left off.
 
-> Replace `OWNER` in the badge URL above with your GitHub username/org once
-> this repo is pushed.
 
 ## Table of contents
 
